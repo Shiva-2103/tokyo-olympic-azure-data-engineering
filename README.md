@@ -38,7 +38,7 @@
 ### 2️⃣ Steps to Deploy
 #### Step 1: Clone the repository
 ```sh
- git clone https://github.com/your-username/your-repository.git
+ git clone https://github.com/Shiva-2103/tokyo-olympic-azure-data-engineering.git
  cd your-repository
 ```
 #### Step 2: Configure Azure Data Factory
