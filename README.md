@@ -55,7 +55,7 @@
 
 #### Step 5: Store transformed data back in Azure Data Lake
 - Save the cleaned data into the lake for further processing.
-- Screenshot: ![Transformed Data Storage](Olympic-data/screenshots/Screenshot%20(492).png)
+- Screenshot: ![Transformed Data Storage](Olympic-data/screenshots/Screenshot%20(493).png)
 
 #### Step 6: Load processed data into Azure Synapse Analytics
 - Analyze and visualize data using **Azure Synapse Analytics**.
